@@ -1,0 +1,14 @@
+
+${Ansi.YELLOW},--.,--------.,---.           ,------. ,--.          ,--.   ,---.
+${Ansi.YELLOW}|  |'--.  .--'   .-'  ,-----. |  .--. '|  | ,--,--.,-'  '-./  .-' ,---. ,--.--.,--,--,--.
+${Ansi.YELLOW}|  |   |  |  `.  `-.  '-----' |  '--' ||  |' ,-.  |'-.  .-'|  `-,| .-. ||  .--'|        |
+${Ansi.YELLOW}|  '--.|  |  .-'    |         |  | --' |  |\ '-'  |  |  |  |  .-'' '-' '|  |   |  |  |  |
+${Ansi.YELLOW}`-----'`--'  `-----'          `--'     `--' `--`--'  `--'  `--'   `---' `--'   `--`--`--'
+
+${Ansi.GREEN} Application name:   ${spring.application.name}
+${Ansi.GREEN} Version:            ${spring-boot.version}
+${Ansi.GREEN} Port:               ${server.port}
+${Ansi.GREEN} Team:               ${spring.application.team}
+${Ansi.GREEN} Company:            ${spring.application.company}
+
+${AnsiColor.DEFAULT}
